@@ -30,10 +30,10 @@ export const config: Config = {
     ],
     remoteConfig: [
         {
-            category: '自定义规则',
+            category: 'MetaCubeX',
             items: [
                 {
-                    label: "MetaCubeX",
+                    label: "MetaCubeX 精简规则",
                     value:
                         "https://raw.githubusercontent.com/1405665226/SubConverter-UI/refs/heads/master/config/config.ini"
                 }
