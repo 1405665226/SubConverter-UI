@@ -30,12 +30,12 @@ export const config: Config = {
     ],
     remoteConfig: [
         {
-            category: '通用规则',
+            category: '自定义规则',
             items: [
                 {
-                    label: "cutethotw 全能规则",
+                    label: "MetaCubeX",
                     value:
-                        "https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini"
+                        "https://raw.githubusercontent.com/1405665226/SubConverter-UI/refs/heads/master/config/config.ini"
                 }
             ]
         }, {
